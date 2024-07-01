@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cryp_app/static/css/main.32d3f23c.css",
+    "main.js": "/cryp_app/static/js/main.f9f72ab4.js",
+    "index.html": "/cryp_app/index.html",
+    "main.32d3f23c.css.map": "/cryp_app/static/css/main.32d3f23c.css.map",
+    "main.f9f72ab4.js.map": "/cryp_app/static/js/main.f9f72ab4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32d3f23c.css",
+    "static/js/main.f9f72ab4.js"
+  ]
+}
